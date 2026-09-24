@@ -1,0 +1,70 @@
+
+body {
+    font-family: Arial, sans-serif; 
+    background-color: #f4f4f4; 
+    margin: 0; 
+    padding: 20px; 
+    background-color: #08477e;
+}
+
+
+h1 {
+    color: #333; 
+    font-size: 28px; 
+    text-align: center; 
+}
+
+
+p {
+    color: #666; 
+    font-size: 16px; 
+    line-height: 1.5; 
+}
+
+a {
+    color: #0066cc; 
+    text-decoration: none; 
+}
+
+a:hover {
+    color: #ff6600; 
+    text-decoration: underline; 
+}
+
+/* Стили для изображений */
+img {
+    max-width: 100%; 
+    height: auto; 
+    border-radius: 5px; 
+}
+
+
+ul, ol {
+    margin-left: 20px; 
+}
+
+
+nav {
+    background-color: #333; 
+    padding: 10px; 
+}
+
+nav a {
+    color: white; 
+    margin-right: 15px; 
+}
+
+#main-title {
+    color: #1886ab; 
+    text-align: center;
+}
+
+
+.back-link {
+    color: #16b61e; 
+    font-weight: bold; 
+}
+
+.back-link:hover {
+    color: #e30c1a; 
+}
